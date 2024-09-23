@@ -20,7 +20,7 @@ This project is a comprehensive solution for predicting and analyzing real estat
   - Developed multiple models including:
     - Linear Regression
     - Decision Trees
-    - Random Forest (Achieved best performance with R² = 0.90 and Mean Absolute Error = ₹44,000)
+    - Random Forest (Achieved best performance with R² = 0.90 and Mean Absolute Error = ₹44 lakhs)
     - XGBoost
   - Evaluated models based on key metrics to select the most accurate one for price prediction.
 
